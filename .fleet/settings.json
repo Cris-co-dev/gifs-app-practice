@@ -1,0 +1,4 @@
+{
+    "autoSave": "AfterDelay",
+    "nodejs.editor.formatOnSave.prettier.mode": "Auto"
+}
